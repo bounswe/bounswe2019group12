@@ -4,6 +4,6 @@ Welcome to Group 12's repository for the course CmpE 352. We are a group of dedi
 
 ## Project Description
 
-![](https://github.com/bounswe/bounswe2019group12/blob/master/resources/images/stock_market.png)
+![](https://github.com/bounswe/bounswe2019group12/blob/master/resources/images/stock_market_example.png)
 
 This project aims to create a trading platform where people who are interested in trading and investing in financial markets can connect with other finance enthusiasts and at the same time invest in any trading equipment. Users of this platform will be able to follow and trade indices, stocks, ETFs, commodities, currencies, funds, bonds, and cryptocurrencies while interacting with other users by following them, commenting on their shared posts and trending trading equipment. More details regarding this project can be found here.
