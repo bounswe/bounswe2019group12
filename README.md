@@ -1,6 +1,6 @@
 # CmpE 352 Group 12
 
-&nbsp;&nbsp; Welcome to Group 12's repository for the course CmpE 352. We are a group of dedicated future engineers trying to join social trading revolution by creating an interactive trading platform. For more information, feel free to check out our wiki page. Below, you can see what our project is about.
+ Welcome to Group 12's repository for the course CmpE 352. We are a group of dedicated future engineers trying to join social trading revolution by creating an interactive trading platform. For more information, feel free to check out our [wiki page](https://github.com/bounswe/bounswe2019group12/wiki). Below, you can see what our project is about.
 
 ## Project Description
 
