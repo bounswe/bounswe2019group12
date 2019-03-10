@@ -6,6 +6,6 @@
 
 ![](https://github.com/bounswe/bounswe2019group12/blob/master/resources/images/stock_market_image.png)
 
-&nbsp;&nbsp; This project aims to create a trading platform where people who are interested in trading and investing in financial markets can connect with other finance enthusiasts and at the same time invest in any trading equipment. Users of this platform will be able to follow and trade indices, stocks, ETFs, commodities, currencies, funds, bonds, and cryptocurrencies while interacting with other users by following them, commenting on their shared posts and trending trading equipment. More details regarding this project can be found here.
+&nbsp;&nbsp; This project aims to create a trading platform where people who are interested in trading and investing in financial markets can connect with other finance enthusiasts and at the same time invest in any trading equipment. Users of this platform will be able to follow and trade indices, stocks, ETFs, commodities, currencies, funds, bonds, and cryptocurrencies while interacting with other users by following them, commenting on their shared posts and trending trading equipment. More details regarding this project can be found [here](https://github.com/bounswe/bounswe2019group12/blob/master/resources/CMPE352_Spring20182019_TradersPlatform.pdf).
 
 
