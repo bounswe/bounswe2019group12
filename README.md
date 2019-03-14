@@ -1,4 +1,4 @@
- # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CmpE 352 Group 12
+ &nbsp;  &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; ![logo](https://github.com/bounswe/bounswe2019group12/blob/master/resources/images/logo.png)
 
 ![last commit badge](https://img.shields.io/github/last-commit/bounswe/bounswe2019group12.svg?style=for-the-badge)&nbsp;
 ![commit activity badge](https://img.shields.io/github/commit-activity/m/bounswe/bounswe2019group12.svg?color=green&style=for-the-badge)&nbsp;
